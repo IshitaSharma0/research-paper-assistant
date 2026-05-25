@@ -190,7 +190,7 @@ research_rag_assistant/
 
 ## Question Answering
 
-![Question Answering](screenshot/question_answer.png)
+![Question Answering](screenshot/question_answering.png)
 
 ---
 
