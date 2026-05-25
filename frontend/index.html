@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Paper Assistant</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Research Paper Assistant</h1>
+
+        <!-- UPLOAD PDF -->
+
+        <section>
+
+            <h2>Upload PDF</h2>
+
+            <input type="file" id="pdfFile">
+
+            <button onclick="uploadPDF()">
+                Upload
+            </button>
+
+            <div id="uploadResult"></div>
+
+        </section>
+
+
+        <!-- ASK QUESTION -->
+
+        <section>
+
+            <h2>Ask Question</h2>
+
+            <input
+                type="text"
+                id="questionInput"
+                placeholder="Ask something about paper..."
+            >
+
+            <button onclick="askQuestion()">
+                Ask
+            </button>
+
+            <div id="answerResult"></div>
+
+        </section>
+    
+
+      <!-- COMPARE PAPERS -->
+
+      <section>
+
+        <h2>Compare Papers</h2>
+
+        <input type="file" id="paper1">
+
+        <br><br>
+
+        <input type="file" id="paper2">
+
+        <br><br>
+
+        <button onclick="comparePapers()">
+         Compare
+        </button>
+
+       <div id="compareResult"></div>
+
+      </section>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
