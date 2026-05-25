@@ -190,17 +190,13 @@ research_rag_assistant/
 
 ## Question Answering
 
-
 ![Question Answering](screenshots/question_answer.png)
-```
 
 ---
 
 ## Research Paper Comparison
 
-
 ![Paper Comparison](screenshots/comparison.png)
-```
 
 ---
 
