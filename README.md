@@ -184,19 +184,19 @@ research_rag_assistant/
 
 ## Home Interface
 
-![Home UI](screenshots/upload.png)
+![Home UI](screenshot/upload.png)
 
 ---
 
 ## Question Answering
 
-![Question Answering](screenshots/question_answer.png)
+![Question Answering](screenshot/question_answer.png)
 
 ---
 
 ## Research Paper Comparison
 
-![Paper Comparison](screenshots/comparison.png)
+![Paper Comparison](screenshot/comparison.png)
 
 ---
 
